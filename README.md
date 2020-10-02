@@ -69,8 +69,12 @@ https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70
 
 ### Image
 
+![casterfork](images/casterfork.png)
+
 
 ### Reflection
+
+For the fork I used learned about the chamfer and the fillet (shortcut **shift-s**) I also learned about creating a shaft. I had a little trouble figuring out on which area to create the shaft but I used Mr. Sheild's video https://youtu.be/wQlTfOw8rYQ to help me figure it out.
 
 ---
 
