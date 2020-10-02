@@ -49,8 +49,11 @@ For the mount I needed to create four 6mm holes and the same big hole in the cen
 https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70e9890d7aaff78dd/e/dfe730a2a2440096b336cc3a
 
 ### Image
+![castermount](images/castermount.png)
 
 ### Reflection
+
+For the Caster I started by following the video with Mr. Sheilds https://youtu.be/BWDk4BZFXDQ but then Mr. Hemstetter told me an easier way to do it. He told me that I could use project convert (shortcut **u**) to make a new sketch(shortcut **shift-s**) on the same document and make the mount a much easier way. I learned that you can make a new project in the same document.
 
 ---
 
@@ -59,9 +62,13 @@ https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70
 
 ### Description
 
+For the fork I had to create a extruded circle with two forks and a shaft. I also had to create fillet and chamfers to blend the components together
+
 ### Evidence
+https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70e9890d7aaff78dd/e/dfe730a2a2440096b336cc3a
 
 ### Image
+
 
 ### Reflection
 
