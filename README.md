@@ -23,7 +23,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Image
 
-![screenshot](images/screenshot.jpd)
+![casterbase](images/Casterbase.png)
 
 ### Reflection
 
@@ -43,7 +43,10 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
+For the mount I needed to create four 6mm holes and the same big hole in the center as the caster base. The mount needed to be square and rest on top of the base.
+
 ### Evidence
+https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70e9890d7aaff78dd/e/dfe730a2a2440096b336cc3a
 
 ### Image
 
