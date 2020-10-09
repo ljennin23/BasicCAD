@@ -83,11 +83,19 @@ For the fork I used learned about the chamfer and the fillet (shortcut **shift-s
 
 ### Description
 
+For the tire I needed to create a trapazoid sketch and rotate it aroung the axis. After I did that I needed to create 8mm fillets to make it look more round like a tire.
+
 ### Evidence
+https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70e9890d7aaff78dd/e/dfe730a2a2440096b336cc3a?
 
 ### Image
 
+![castertire](images/tire.png)
+
+
 ### Reflection
+
+For the tire I didn't have a hard time doing it, but I did have to watch Dr, Sheild's video https://youtu.be/ReEGioIYSus that was pretty much it. The tire was, for me, really fun because rotation is one of my favorite features in Onshape. I learned how to use the fillet function (shortcut **shift-f**).
 
 ---
 
