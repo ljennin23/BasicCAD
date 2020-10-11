@@ -104,11 +104,19 @@ For the tire I didn't have a hard time doing it, but I did have to watch Dr, She
 
 ### Description
 
+For the wheel we had to create one sketch, and rotate that sketch around the axis to create the base of the wheel. After that we had to create another sketch on top of the wheel using arcs to create the spokes. Then we had to create fillets to make the wheel look nice
+
 ### Evidence
+
+https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70e9890d7aaff78dd/e/dfe730a2a2440096b336cc3a
 
 ### Image
 
+![casterwheel](images/casterwheel.png)
+
 ### Reflection
+
+I had trouble making the spoke sketch but I looked at Mr Helmstetter's Video https://www.youtube.com/watch?v=DbOjDNK8Nsk&feature=emb_title and he showed me step by step how to do it. It took me longer than I anticipated but eventually I got it.
 
 ---
 
