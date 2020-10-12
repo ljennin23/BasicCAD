@@ -124,11 +124,22 @@ I had trouble making the spoke sketch but I looked at Mr Helmstetter's Video htt
 ## AxleCollarBearings
 
 ### Description
+For the axle I had to create a hollowed out cylinder with a removed extrusion on the outside. For the collar I had to create a cilinder on top of the axle and had to create a hole in the collar for a screw. For the bearing I had to create two different small hollowed out cillinders.
 
 ### Evidence
 
+https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70e9890d7aaff78dd/e/bd2eb726a93d6ed238f7beea
+
 ### Image
 
+
+![casterwheel](images/casterwheel.png)
+
+![casterbigbearing](images/casterbigbearing.png)
+
+
 ### Reflection
+
+I had trouble when making the axle because i started on the wrong plane. I soon figured out thanks to Mr. Helmstetter, that in the end it doesnt matter which plane you are on. When Making the collar Dr. Sheild's video was very helpful https://youtu.be/2r7YqGuF1vY, and The bearings really helped me see how much easier Onshape is when you practice because I rememer when Those bearing would be very hard for me, and now I do them very quickly.
 
 ---
