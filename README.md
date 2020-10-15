@@ -143,3 +143,23 @@ https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70
 I had trouble when making the axle because i started on the wrong plane. I soon figured out thanks to Mr. Helmstetter, that in the end it doesnt matter which plane you are on. When Making the collar Dr. Sheild's video was very helpful https://youtu.be/2r7YqGuF1vY, and The bearings really helped me see how much easier Onshape is when you practice because I rememer when Those bearing would be very hard for me, and now I do them very quickly.
 
 ---
+
+## sub assembly
+
+### Description
+For the sub assembly I had to use 2 fasten mates and three revolve mates, I had to mate the wheel to the tire, and then mate the axle to the wheel and the bearings to the wheel. 
+
+### Evidence
+
+https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70e9890d7aaff78dd/e/bd2eb726a93d6ed238f7beea
+
+### Image
+
+
+![subassembly](images/castersubassembly.png)
+
+
+
+### Reflection
+
+This assembly wasn't too hard for me and I figured out the mates pretty well. I learned the fasten mate (shortcut **m**) and the revolve mate (shortcut **m**). When I mated my axle to the wheel It was not perfectly centered the first time, but Dr. Sheild's video https://youtu.be/R4PDBd8H5h8 went over how to make it perfect. I really liked this part of making the caster.
