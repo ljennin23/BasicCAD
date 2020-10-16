@@ -144,6 +144,31 @@ I had trouble when making the axle because i started on the wrong plane. I soon 
 
 ---
 
+
+
+
+## caster assembly
+
+### Description
+For the Final caster assembly I had to mate all of the parts, including the sub assembly using revolute mates, and fasten mates, and one parallel mate. Once you mate all the peices together you need to put on four skrews connecting the mount to the base and then a nut holding the shaft of the fork in place. Then I needed ot great a pin in the bearing so it can't move around.
+
+### Evidence
+https://cvilleschools.onshape.com/documents/52cc50fbac7c72d2dace14f8/w/f817f3f1dad774b14de2741f/e/b21ed188445d74a9882b008e
+
+## Image
+
+![casterassembly](images/casterassembly.png)
+
+## Reflection
+
+Whe assembling the final part of the caster I used Mr. Sheild's video https://youtu.be/orcp-asikM4 which was very helpful. I first had trouble because ym internet wasn't working so onshape wasn't loading so that put me in a bit of a pestimistic mood going forward with this part. Once i got started I realized that onshape mae this very easy, and I didn't have any difficulties. I learned about the parallel mate when I did that for the first time I had a bit of trouble but after i figured it out It worked great.
+
+
+
+
+
+
+
 ## sub assembly
 
 ### Description
@@ -163,3 +188,18 @@ https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70
 ### Reflection
 
 This assembly wasn't too hard for me and I figured out the mates pretty well. I learned the fasten mate (shortcut **m**) and the revolve mate (shortcut **m**). When I mated my axle to the wheel It was not perfectly centered the first time, but Dr. Sheild's video https://youtu.be/R4PDBd8H5h8 went over how to make it perfect. I really liked this part of making the caster.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
