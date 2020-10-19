@@ -187,7 +187,7 @@ https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70
 
 ### Reflection
 
-This assembly wasn't too hard for me and I figured out the mates pretty well. I learned the fasten mate (shortcut **m**) and the revolve mate (shortcut **m**). When I mated my axle to the wheel It was not perfectly centered the first time, but Dr. Sheild's video https://youtu.be/R4PDBd8H5h8 went over how to make it perfect. I really liked this part of making the caster.
+This assembly wasn't too hard for me and I figured out the mates pretty well. I learned the fasten mate (shortcut **m**) and the revolve mate (shortcut **m**). When I mated my axle to the wheel It was not perfectly centered the first time, but Dr. Sheild's video https://youtu.be/R4PDBd8H5h8 went over how to make it perfect. I really liked this part of making the caster. Mr. Hemlstetter wanted us to make a sub assembly because he wanted us to be able to just insert the wheel and tire together and not have to re-assemble in the final assembly.
 
 
 
