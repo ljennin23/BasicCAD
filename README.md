@@ -138,6 +138,8 @@ https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70
 ![casterbigbearing](images/casterbigbearing.png)
 
 
+
+
 ### Reflection
 
 I had trouble when making the axle because i started on the wrong plane. I soon figured out thanks to Mr. Helmstetter, that in the end it doesnt matter which plane you are on. When Making the collar Dr. Sheild's video was very helpful https://youtu.be/2r7YqGuF1vY, and The bearings really helped me see how much easier Onshape is when you practice because I rememer when Those bearing would be very hard for me, and now I do them very quickly.
