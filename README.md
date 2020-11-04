@@ -137,7 +137,7 @@ https://cvilleschools.onshape.com/documents/7588c139f3599d22dc53e4e0/w/f600bef70
 
 ![casterbigbearing](images/casterbigbearing.png)
 
-
+![casteraxleandcollar](images/Screenshot 2020-11-04 at 2.12.07 PM.png)
 
 
 ### Reflection
